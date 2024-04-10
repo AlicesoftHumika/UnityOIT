@@ -1,13 +1,13 @@
 Unity 2021.3.14f1  
 Universal RP 12.1.8  
+### include 
+- Depth Peeling  
 
-### Depth Peeling  
+- Per-pixel Linked List  
 
-### Per-pixel Linked List  
+- Weighted Based  
 
-### Weighted Based  
-
-### Moment Based  
+- Moment Based  
 
 ### Reference  
 https://developer.download.nvidia.cn/assets/gamedev/docs/OrderIndependentTransparency.pdf  
