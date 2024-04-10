@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MGame_Scene_Building1
+  m_Shader: {fileID: 4800000, guid: 6873972681f6e9f44b7110e057f46d2b, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseNCA:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNSM:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayMainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayNSM:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - YK_BasicSetting: 0
+    - YK_RenderMode: 0
+    - _AOpower: 1
+    - _AlphaClip: 0
+    - _AoNoise: 0
+    - _Base: 0
+    - _BaseBumpScale: 0
+    - _Blend: 0
+    - _CreviceStr: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Detail: 0
+    - _DetailBumpScale: 1
+    - _DetailMetallic: 0
+    - _DetailSmoothness: 0.5
+    - _Dissolve: 0
+    - _DissolveValue: 0
+    - _DstBlend: 0
+    - _EdgeStr: 1
+    - _NoisePower: 0.5
+    - _NoiseRange: 0.2
+    - _Overlay: 0
+    - _OverlayBumpScale: 1
+    - _OverlayMetallic: 0
+    - _OverlayPower: 0.5
+    - _OverlayRange: 1
+    - _OverlaySmoothness: 0
+    - _QueueOffset: 0
+    - _Slope: 0
+    - _SlopeMax: 1
+    - _SlopeMin: 0
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _CreviceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DetailTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _DissolveTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _EdgeColor: {r: 1, g: 1, b: 1, a: 1}
+    - _NoiseTilling: {r: 1, g: 1, b: 0, a: 0}
+    - _OverlayColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OverlayTilling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
